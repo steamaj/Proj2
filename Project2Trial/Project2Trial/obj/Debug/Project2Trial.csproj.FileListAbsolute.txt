@@ -1,0 +1,9 @@
+c:\users\steamaj\documents\visual studio 2017\Projects\Project2Trial\Project2Trial\bin\Debug\Project2Trial.exe.config
+c:\users\steamaj\documents\visual studio 2017\Projects\Project2Trial\Project2Trial\bin\Debug\Project2Trial.exe
+c:\users\steamaj\documents\visual studio 2017\Projects\Project2Trial\Project2Trial\bin\Debug\Project2Trial.pdb
+c:\users\steamaj\documents\visual studio 2017\Projects\Project2Trial\Project2Trial\obj\Debug\Project2Trial.Form1.resources
+c:\users\steamaj\documents\visual studio 2017\Projects\Project2Trial\Project2Trial\obj\Debug\Project2Trial.Properties.Resources.resources
+c:\users\steamaj\documents\visual studio 2017\Projects\Project2Trial\Project2Trial\obj\Debug\Project2Trial.csproj.GenerateResource.Cache
+c:\users\steamaj\documents\visual studio 2017\Projects\Project2Trial\Project2Trial\obj\Debug\Project2Trial.exe
+c:\users\steamaj\documents\visual studio 2017\Projects\Project2Trial\Project2Trial\obj\Debug\Project2Trial.pdb
+c:\users\steamaj\documents\visual studio 2017\Projects\Project2Trial\Project2Trial\obj\Debug\Project2Trial.csprojResolveAssemblyReference.cache
